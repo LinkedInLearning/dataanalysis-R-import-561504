@@ -1,0 +1,65 @@
+<RECORDS>
+   <STUDENT>
+      <ID>1</ID>
+      <NAME>Mueller</NAME>
+	  <FIRSTNAME>Annabell</FIRSTNAME>
+	  <BIRTHDAY>1/10/2013</BIRTHDAY>
+      <CLASS>1c</CLASS>
+      <SUBJECT>Mathe</SUBJECT>
+   </STUDENT>
+	
+   <STUDENT>
+      <ID>2</ID>
+      <NAME>Schmith</NAME>
+	  <FIRSTNAME>Riko</FIRSTNAME>
+	  <BIRTHDAY>8/24/2013</BIRTHDAY>
+      <CLASS>1d</CLASS>
+      <SUBJECT>Deutsch</SUBJECT>
+   </STUDENT>
+   
+    <STUDENT>
+      <ID>3</ID>
+      <NAME>Burton</NAME>
+	  <FIRSTNAME>Timothy</FIRSTNAME>
+	  <BIRTHDAY>11/20/2013</BIRTHDAY>
+      <CLASS>1a</CLASS>
+      <SUBJECT>Mathe</SUBJECT>
+   </STUDENT>
+   
+    <STUDENT>
+      <ID>4</ID>
+      <NAME>Abbas</NAME>
+	  <FIRSTNAME>Umar</FIRSTNAME>
+	  <BIRTHDAY>02/04/2014</BIRTHDAY>
+      <CLASS>1a</CLASS>
+      <SUBJECT>Werken</SUBJECT>
+   </STUDENT>
+
+    <STUDENT>
+      <ID>5</ID>
+      <NAME>Nagari</NAME>
+	  <FIRSTNAME>Naomi</FIRSTNAME>
+	  <BIRTHDAY>05/13/2014</BIRTHDAY>
+      <CLASS>1c</CLASS>
+      <SUBJECT>Werken</SUBJECT>
+   </STUDENT>
+   
+    <STUDENT>
+      <ID>6</ID>
+      <NAME>Wurst</NAME>
+	  <FIRSTNAME>Hans</FIRSTNAME>
+	  <BIRTHDAY>05/05/2014</BIRTHDAY>
+      <CLASS>1a</CLASS>
+      <SUBJECT>Mathe</SUBJECT>
+   </STUDENT>
+   
+   <STUDENT>
+      <ID>7</ID>
+      <NAME>Weise</NAME>
+	  <FIRSTNAME>Natalie</FIRSTNAME>
+	  <BIRTHDAY>02/02/2014</BIRTHDAY>
+      <CLASS>1c</CLASS>
+      <SUBJECT>Mathe</SUBJECT>
+   </STUDENT>
+
+</RECORDS>
