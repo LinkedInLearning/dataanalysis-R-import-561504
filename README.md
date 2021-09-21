@@ -1,7 +1,7 @@
-# [DE-Kursname hier eintragen]
-Dies ist das Repository für den **LinkedIn Learning** Kurs [COURSENAME]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+# Datenanalyse mit R: Datenimport und -handling
+Dies ist das Repository für den **LinkedIn Learning** Kurs Datenanalyse mit R: Datenimport und -handling. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
+[![Datenanalyse mit R: Datenimport und -handling](COURSEIMAGE)](LICOURSEURL)
 
 [COURSEDESCRIPTION]
 
