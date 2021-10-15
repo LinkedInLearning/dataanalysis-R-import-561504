@@ -3,7 +3,10 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs Datenanalyse mit R: 
 
 [![Datenanalyse mit R: Datenimport und -handling](COURSEIMAGE)](LICOURSEURL)
 
-[COURSEDESCRIPTION]
+In unserem digitalen Zeitalter fallen Unmengen an Daten an ... ein regelrechter Datenschatz, der jedoch erst einen Wert bekommt, wenn wir daraus nützliche Informationen ziehen können. Die Statistiksprache R ist dafür ein mächtiges Werkzeug. Sie bietet eine umfangreiche Bibliothek an Paketen, die das Importieren, Aufbereiten und Analysieren von Daten vereinfacht. 
+
+In diesem LinkedIn Learning Kurs gibt Ihnen die Trainerin Stefanie Lösch eine Einführung in R und die Paketelandschaft „tidyverse“. Die Trainerin zeigt Ihnen das Importieren verschiedener Datenformate aus unterschiedlichen Quellen. Außerdem lernen Sie wie Rohdaten „tidy“ werden, sodass Standardanalyseverfahren anwendbar sind. 
+
 
 ## Anleitung
 Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
@@ -23,19 +26,19 @@ Aborting
 Dieses Problem lösen Sie wie folgt:
     Add changes to git using this command: git add .
     Commit changes using this command: git commit -m "some message"
-
-## Installation
+    
+## Installation    
 
 1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+   - aktuelle R - Version (und ggf. rtools): siehe https://cran.r-project.org/  
+   - aktuelle RStudio - Version (kostenlose Desktopversion genügt): https://www.rstudio.com/products/rstudio/download/
+2. Laden Sie die Dateien als zip-Paket herunter oder klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
+3. Entzippen Sie ggf. die Datei und öffnen Sie anschließend die R - Projektdatei mit Endung .Rproj
 
 ### Autor
 
-**[Name hier eintragen]**
+**[Stefanie Lösch]**
 
-_[Berufsbezeichnung hier eintragen]_
 
 Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
 
