@@ -30,4 +30,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/datenanalyse-mit-r-datenimport-und-handling-15602712
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE29SB9nSWgOg/learning-public-crop_675_1200/0/1645186033639?e=1645621200&v=beta&t=qcvMxmM-jt_raycg8ADMp1CrtSFaoVKcK8PPxPZCDhg
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQE29SB9nSWgOg/learning-public-crop_675_1200/0/1645186033639?e=1645776000&v=beta&t=-t7ZP5SC74M6PyZawTNLAV8msnJARN8YkHHgR8suwfY
